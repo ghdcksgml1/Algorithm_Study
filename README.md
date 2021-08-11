@@ -22,6 +22,8 @@
 
 <br/><br/>
 
+##
+
 # 👩‍👩‍👦‍👦 멤버
 
 <br/>
@@ -29,21 +31,24 @@
 <table>
     <tr>
       <td height="140px" align="center"> <a href="https://github.com/eunsue1222"><img src="https://avatars.githubusercontent.com/u/46877867?s=460&v=4" width="140px" /><br/>단국대 컴퓨터공학과<br/>👩🏻 김은수 (Python)</a></td>
-      <td height="140px" align="center"> <a href="https://github.com/ghdcksgml1"><img src="https://avatars.githubusercontent.com/u/797796?s=460&v=4" width="140px" /><br/>단국대 컴퓨터공학과<br/>👦🏻 소경민 (JAVA)</a></td>
+      <td height="140px" align="center"> <a href="https://github.com/comnewbie"><img src="https://avatars.githubusercontent.com/u/88769991?s=460&v=4" width="140px" /><br/>단국대 컴퓨터공학과<br/>👦🏻 소경민 (JAVA)</a></td>
       <td height="140px" align="center"> <a href="https://github.com/jusung-c"><img src="https://avatars.githubusercontent.com/u/62228433?s=460&v=4" width="140px" /><br/>단국대 컴퓨터공학과<br/>👦🏻 이주성 (JAVA)</a></td>
       <td height="140px" align="center"> <a href="https://github.com/youbeen2798"><img src="https://avatars.githubusercontent.com/u/62228401?s=460&v=4" width="140px" /><br/>단국대 컴퓨터공학과<br/>👩🏻 정유빈 (Python)</a></td>
         <td height="140px" align="center"> <a href="https://github.com/ghdcksgml1"><img src="https://avatars.githubusercontent.com/u/79779676?s=460&v=4" width="140px" /><br/>단국대 컴퓨터공학과<br/>👦🏻 홍찬희 (JAVA)</a></td>
     </tr>
     <tr>
       <td align="center"><a href="https://solved.ac/eunsue1222"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=eunsue1222" /></a><br/><a href="https://www.acmicpc.net/user/eunsue1222">Baekjoon</a><br/><a href="https://solved.ac/profile/eunsue1222">solved.ac</a></td>
-      <td align="center"><a href="https://solved.ac/ghdcks33"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ghdcks33" /></a><br/><a href="https://www.acmicpc.net/user/ghdcks33">Baekjoon</a><br/><a href="https://solved.ac/profile/ghdcks33">solved.ac</a></td>
+      <td align="center"><a href="https://solved.ac/iforking"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=iforking" /></a><br/><a href="https://www.acmicpc.net/user/iforking">Baekjoon</a><br/><a href="https://solved.ac/profile/iforking">solved.ac</a></td>
       <td align="center"><a href="https://solved.ac/anaooauc1236"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=anaooauc1236" /></a><br/><a href="https://www.acmicpc.net/user/anaooauc1236">Baekjoon</a><br/><a href="https://solved.ac/profile/anaooauc1236">solved.ac</a></td>
       <td align="center"><a href="https://solved.ac/youbeen"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=youbeen" /></a><br/><a href="https://www.acmicpc.net/user/youbeen">Baekjoon</a><br/><a href="https://solved.ac/profile/youbeen">solved.ac</a></td>
       <td align="center"><a href="https://solved.ac/ghdcks33"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ghdcks33" /></a><br/><a href="https://www.acmicpc.net/user/ghdcks33">Baekjoon</a><br/><a href="https://solved.ac/profile/ghdcks33">solved.ac</a></td>
   </tr>
+  
 </table>
 
 <br/>
+
+##
 
 # 📘 공부 방법
 
@@ -62,6 +67,8 @@
 4️⃣ 관련 문제를 풀어본다.
 
 <br/><br/>
+
+##
 
 # ❗️ 주의사항 ❗️
 
@@ -88,6 +95,8 @@
 9️⃣ 쉬어가는 주는 다들 너무 지쳐있거나 or 시험기간 or 과반수가 찬성할 때
 
 <br/><br/>
+
+##
 
 # 🔗 이용규칙
 
@@ -176,11 +185,15 @@ int main(void){
 
 <br/><br/>
 
-### 4️⃣ Pull requests 방법
+### 4️⃣ Pull requests 방법 (제출방법)
 
-나도 아직 몰라서 업데이트 예정..
+<br/>
+
+<a href="https://blog.naver.com/ghdcksgml2/222466153666">Pull requests 방법</a> <= 링크를 타고 들어가면 나옵니다.
 
 <br/><br/>
+
+##
 
 # 📖 진행 순서
 
@@ -202,13 +215,33 @@ int main(void){
     <td align="center" width="150px"><a href="https://korean-otter.tistory.com/entry/%EB%B0%B1%EC%A4%80%EC%97%90-%EC%9E%90%EB%B0%94-%EC%A0%9C%EC%B6%9C%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95">JAVA</a>, <a href="https://junco.tistory.com/91">Python</a></td>
     <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/00_Baekjoon">바로가기</a></td>
     <td align="center" width="120px">5</td>
+    <td align="center" width="120px">6</td>
+    <td align="center" width="70px">0/5</td>
+  </tr>
+  <tr>
+    <td align="center">01</td>
+    <td align="center" width="300px">정렬 1</td>
+    <td align="center" width="150px"><a href="">JAVA</a>, <a href="">Python</a></td>
+    <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/01_Sort1">바로가기</a></td>
+    <td align="center" width="120px">3</td>
+    <td align="center" width="120px">5</td>
+    <td align="center" width="80px">0/5</td>
+  </tr>
+  <tr>
+    <td align="center">02</td>
+    <td align="center" width="300px">정렬 2(sort함수 사용)</td>
+    <td align="center" width="150px"><a href="">JAVA</a>, <a href="">Python</a></td>
+    <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/02_Sort2">바로가기</a></td>
+    <td align="center" width="120px">3</td>
     <td align="center" width="120px">5</td>
     <td align="center" width="80px">0/5</td>
   </tr>
 </table>
 
 <br/><br/>
-  
+
+##
+
 # 📌 목표
 
 1. 알고리즘 별 개념학습과 관련 문제풀이
