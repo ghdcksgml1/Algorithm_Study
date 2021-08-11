@@ -163,9 +163,26 @@ int main(void){
 
 # 📖 진행 순서
 
+<br/>
+
 <table>
   <tr>
-    <td>
+    <td align="center">순서</td>
+    <td align="center">알고리즘</td>
+    <td align="center">참고 자료</td>
+    <td align="center">문제집</td>
+    <td align="center">추천 문제 수</td>
+    <td align="center">총 문제 수</td>
+    <td align="center">상태</td>
+  </tr>
+  <tr>
+    <td align="center">00</td>
+    <td align="center" width="300px">백준 익히기</td>
+    <td align="center" width="150px"><a href="https://korean-otter.tistory.com/entry/%EB%B0%B1%EC%A4%80%EC%97%90-%EC%9E%90%EB%B0%94-%EC%A0%9C%EC%B6%9C%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95">JAVA</a>, <a href="https://junco.tistory.com/91">Python</a></td>
+    <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/00_Baekjoon">바로가기</a></td>
+    <td align="center" width="120px">5</td>
+    <td align="center" width="120px">5</td>
+    <td align="center" width="80px">0/5</td>
   </tr>
 </table>
 
