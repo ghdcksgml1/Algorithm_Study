@@ -1,8 +1,18 @@
-## 📚 00_Baekjoon Handling
+## 📚 01_Sort 1
 
 순서대로 푸는게 좋아요.
 
 추천 문제는 (✅ 체크표시) 했습니다.
+
+<br/>
+
+2750번은 QuickSort
+
+2751번은 MergeSort 로 풉시다.
+
+❗️ QuickSort와 MergeSort의 시간복잡도까지 알아오기.
+
+그 이후론 sort함수 써도됌
 
 <br/>
 
@@ -18,50 +28,42 @@
   <tr>
     <td align="center">01</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg"></td>
-    <td align="center">2557</td>
-    <td align="center">Hello World</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/2557">바로가기</a></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/5.svg"></td>
+    <td align="center">2750</td>
+    <td align="center">수 정렬하기</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/2750">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">02</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg"></td>
-    <td align="center">1000</td>
-    <td align="center">A+B</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/1000">바로가기</a></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg"></td>
+    <td align="center">2751</td>
+    <td align="center">수 정렬하기 2</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/2751">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">03</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg"></td>
-    <td align="center">1001</td>
-    <td align="center">A-B</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/1001">바로가기</a></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg"></td>
+    <td align="center">10989</td>
+    <td align="center">수 정렬하기 3</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/10989">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">04</td>
-    <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg"></td>
-    <td align="center">10998</td>
-    <td align="center">AXB</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/10998">바로가기</a></td>
+    <td align="center"></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg"></td>
+    <td align="center">1427</td>
+    <td align="center">소트인사이드</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/1427">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">05</td>
-    <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/2.svg"></td>
-    <td align="center">1008</td>
-    <td align="center">A/B</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/1008">바로가기</a></td>
-  </tr>
-  <tr>
-    <td align="center">06</td>
     <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/3.svg"></td>
-    <td align="center">4101</td>
-    <td align="center">크냐?</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/4101">바로가기</a></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg"></td>
+    <td align="center">2108</td>
+    <td align="center">통계학</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/2108">바로가기</a></td>
   </tr>
 </table>
 
