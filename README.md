@@ -20,6 +20,8 @@
 
 (‼️ 해당 스터디는 <a href="https://github.com/tony9402/baekjoon">tony9402</a>님의 알고리즘 문제집을 상당부분 벤치마크 했습니다.)
 
+<br/><br/>
+
 # 👩‍👩‍👦‍👦 멤버
 
 <br/>
@@ -28,14 +30,14 @@
     <tr>
       <td height="140px" align="center"> <a href="https://github.com/ghdcksgml1"><img src="https://avatars.githubusercontent.com/u/7977967?s=460&v=4" width="140px" /><br/>단국대 컴퓨터공학과<br/>👩🏻 김은수 (Python)</a></td>
       <td height="140px" align="center"> <a href="https://github.com/ghdcksgml1"><img src="https://avatars.githubusercontent.com/u/797796?s=460&v=4" width="140px" /><br/>단국대 컴퓨터공학과<br/>👦🏻 소경민 (JAVA)</a></td>
-      <td height="140px" align="center"> <a href="https://github.com/ghdcksgml1"><img src="https://avatars.githubusercontent.com/u/79779?s=460&v=4" width="140px" /><br/>단국대 컴퓨터공학과<br/>👦🏻 이주성 (JAVA)</a></td>
+      <td height="140px" align="center"> <a href="https://github.com/jusung-c"><img src="https://avatars.githubusercontent.com/u/62228433?s=460&v=4" width="140px" /><br/>단국대 컴퓨터공학과<br/>👦🏻 이주성 (JAVA)</a></td>
       <td height="140px" align="center"> <a href="https://github.com/youbeen2798"><img src="https://avatars.githubusercontent.com/u/62228401?s=460&v=4" width="140px" /><br/>단국대 컴퓨터공학과<br/>👩🏻 정유빈 (Python)</a></td>
         <td height="140px" align="center"> <a href="https://github.com/ghdcksgml1"><img src="https://avatars.githubusercontent.com/u/79779676?s=460&v=4" width="140px" /><br/>단국대 컴퓨터공학과<br/>👦🏻 홍찬희 (JAVA)</a></td>
     </tr>
     <tr>
       <td align="center"><a href="https://solved.ac/ghdcks33"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ghdcks33" /></a><br/><a href="https://www.acmicpc.net/user/ghdcks33">Baekjoon</a><br/><a href="https://solved.ac/profile/ghdcks33">solved.ac</a></td>
       <td align="center"><a href="https://solved.ac/ghdcks33"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ghdcks33" /></a><br/><a href="https://www.acmicpc.net/user/ghdcks33">Baekjoon</a><br/><a href="https://solved.ac/profile/ghdcks33">solved.ac</a></td>
-      <td align="center"><a href="https://solved.ac/ghdcks33"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ghdcks33" /></a><br/><a href="https://www.acmicpc.net/user/ghdcks33">Baekjoon</a><br/><a href="https://solved.ac/profile/ghdcks33">solved.ac</a></td>
+      <td align="center"><a href="https://solved.ac/anaooauc1236"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=anaooauc1236" /></a><br/><a href="https://www.acmicpc.net/user/anaooauc1236">Baekjoon</a><br/><a href="https://solved.ac/profile/anaooauc1236">solved.ac</a></td>
       <td align="center"><a href="https://solved.ac/youbeen"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=youbeen" /></a><br/><a href="https://www.acmicpc.net/user/youbeen">Baekjoon</a><br/><a href="https://solved.ac/profile/youbeen">solved.ac</a></td>
       <td align="center"><a href="https://solved.ac/ghdcks33"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ghdcks33" /></a><br/><a href="https://www.acmicpc.net/user/ghdcks33">Baekjoon</a><br/><a href="https://solved.ac/profile/ghdcks33">solved.ac</a></td>
   </tr>
@@ -43,7 +45,23 @@
 
 <br/>
 
-##
+# 📘 공부 방법
+
+(유튜브, 구글 검색, 유료 강의) 중 선택 
+
+**무조건 복습 많이하는게 실력향상에 도움됌!!**
+
+<br/>
+
+1️⃣ 강의를 보고나서 개념을 머릿속으로 생각하거나, 종이 그려보면서 이해한다.
+
+2️⃣ 조금씩 보면서 코드로 작성해본다. (주석 필수로 달아보기)
+
+3️⃣ 정답을 보지않고 똑같이 코드를 작성해본다.
+
+4️⃣ 관련 문제를 풀어본다.
+
+<br/><br/>
 
 # ❗️ 주의사항 ❗️
 
@@ -69,7 +87,7 @@
 
 9️⃣ 쉬어가는 주는 다들 너무 지쳐있거나 or 시험기간 or 과반수가 찬성할 때
 
-<br/>
+<br/><br/>
 
 # 🔗 이용규칙
 
