@@ -4,6 +4,9 @@
 
 추천 문제는 (✅ 체크표시) 했습니다.
 
+- **자바 참고자료** : https://st-lab.tistory.com/12 (BufferedReader 사용법 Scanner보다 빠름) 
+- **BufferedReader** : 240ms , **Scanner** : 140ms
+
 <br/>
 
 <table>
