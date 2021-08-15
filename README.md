@@ -54,7 +54,7 @@
 
 (유튜브, 구글 검색, 유료 강의) 중 선택 
 
-추천 강의 1 : <a href="https://www.youtube.com/watch?v=LcOIobH7ues&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY">바킹독님</a> (C++강의지만, 알고리즘 원리를 아는데 도움됌.)
+추천 강의 1 : <a href="https://www.youtube.com/watch?v=LcOIobH7ues&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY">바킹독님</a> (C++강의지만, 알고리즘 원리를 아는데 도움됨.)
 
 추천 강의 2 : <a href="https://github.com/rhs0266/FastCampus">류호석님</a> (JAVA)
 
