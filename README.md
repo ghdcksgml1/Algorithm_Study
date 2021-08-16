@@ -220,7 +220,7 @@ int main(void){
     <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/00_Baekjoon">바로가기</a></td>
     <td align="center" width="120px">5</td>
     <td align="center" width="120px">6</td>
-    <td align="center" width="70px">1/5</td>
+    <td align="center" width="70px">2/5</td>
   </tr>
   <tr>
     <td align="center">01</td>
