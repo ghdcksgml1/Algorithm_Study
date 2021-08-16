@@ -7,6 +7,8 @@
 - **자바 참고자료** : https://st-lab.tistory.com/12 (BufferedReader 사용법 Scanner보다 빠름) 
 - **BufferedReader** : 240ms , **Scanner** : 140ms
 
+완료 : 홍찬희, 
+
 <br/>
 
 <table>
