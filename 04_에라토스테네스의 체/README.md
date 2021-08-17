@@ -1,4 +1,4 @@
-## 📚 02_Sort 2 (sort함수 활용)
+## 📚 04_에라토스테네스의 체
 
 순서대로 푸는게 좋아요.
 
@@ -18,42 +18,42 @@
   <tr>
     <td align="center">01</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg"></td>
-    <td align="center">11650</td>
-    <td align="center">좌표 정렬하기</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/11650">바로가기</a></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg"></td>
+    <td align="center">2960</td>
+    <td align="center">에라토스테네스의 체</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/2960">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">02</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg"></td>
-    <td align="center">11651</td>
-    <td align="center">좌표 정렬하기 2</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/11651">바로가기</a></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg"></td>
+    <td align="center">1929</td>
+    <td align="center">소수 최소 공배수</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/1929">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">03</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg"></td>
-    <td align="center">1181</td>
-    <td align="center">단어정렬</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/1181">바로가기</a></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg"></td>
+    <td align="center">21919</td>
+    <td align="center">소수 최소 공배수</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/21919">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">04</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg"></td>
-    <td align="center">10814</td>
-    <td align="center">나이순 정렬</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/10814">바로가기</a></td>
+    <td align="center">✅</td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg"></td>
+    <td align="center">1929</td>
+    <td align="center">소수 구하기</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/1929">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">05</td>
     <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg"></td>
-    <td align="center">18870</td>
-    <td align="center">좌표 압축</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/18870">바로가기</a></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg"></td>
+    <td align="center">1644</td>
+    <td align="center">소수의 연속합</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/1644">바로가기</a></td>
   </tr>
 </table>
 
