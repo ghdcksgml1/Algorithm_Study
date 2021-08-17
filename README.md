@@ -245,16 +245,16 @@ int main(void){
     <td align="center" width="300px">수학</td>
     <td align="center" width="150px"></td>
     <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/02_Sort2">바로가기</a></td>
-    <td align="center" width="120px"></td>
-    <td align="center" width="120px"></td>
+    <td align="center" width="120px">5</td>
+    <td align="center" width="120px">5</td>
     <td align="center" width="80px">준비중..</td>
   </tr><tr>
     <td align="center">04</td>
     <td align="center" width="300px">에라토스테네스의 체</td>
     <td align="center" width="150px"></td>
     <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/02_Sort2">바로가기</a></td>
-    <td align="center" width="120px"></td>
-    <td align="center" width="120px"></td>
+    <td align="center" width="120px">5</td>
+    <td align="center" width="120px">5</td>
     <td align="center" width="80px">준비중..</td>
   </tr>
   <tr>
@@ -262,8 +262,8 @@ int main(void){
     <td align="center" width="300px">자료구조 1 (스택,큐,덱)</td>
     <td align="center" width="150px"></td>
     <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/02_Sort2">바로가기</a></td>
-    <td align="center" width="120px"></td>
-    <td align="center" width="120px"></td>
+    <td align="center" width="120px">7</td>
+    <td align="center" width="120px">7</td>
     <td align="center" width="80px">준비중..</td>
   </tr>
   <tr>
