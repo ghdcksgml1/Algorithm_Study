@@ -242,155 +242,172 @@ int main(void){
   </tr>
   <tr>
     <td align="center">03</td>
-    <td align="center" width="300px">자료구조 1 (스택,큐,덱)</td>
-    <td align="center" width="150px"><a href="">JAVA</a>, <a href="">Python</a></td>
+    <td align="center" width="300px">수학</td>
+    <td align="center" width="150px"></td>
     <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/02_Sort2">바로가기</a></td>
-    <td align="center" width="120px">3</td>
-    <td align="center" width="120px">5</td>
+    <td align="center" width="120px"></td>
+    <td align="center" width="120px"></td>
     <td align="center" width="80px">준비중..</td>
-  </tr>
-  <tr>
+  </tr><tr>
     <td align="center">04</td>
-    <td align="center" width="300px">자료구조 2 (우선순위 큐)</td>
-    <td align="center" width="150px"><a href="">JAVA</a>, <a href="">Python</a></td>
+    <td align="center" width="300px">에라토스테네스의 체</td>
+    <td align="center" width="150px"></td>
     <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/02_Sort2">바로가기</a></td>
-    <td align="center" width="120px">3</td>
-    <td align="center" width="120px">5</td>
+    <td align="center" width="120px"></td>
+    <td align="center" width="120px"></td>
     <td align="center" width="80px">준비중..</td>
   </tr>
   <tr>
     <td align="center">05</td>
-    <td align="center" width="300px">동적 프로그래밍 1</td>
-    <td align="center" width="150px"><a href="">JAVA</a>, <a href="">Python</a></td>
+    <td align="center" width="300px">자료구조 1 (스택,큐,덱)</td>
+    <td align="center" width="150px"></td>
     <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/02_Sort2">바로가기</a></td>
-    <td align="center" width="120px">3</td>
-    <td align="center" width="120px">5</td>
+    <td align="center" width="120px"></td>
+    <td align="center" width="120px"></td>
     <td align="center" width="80px">준비중..</td>
   </tr>
   <tr>
     <td align="center">06</td>
-    <td align="center" width="300px">동적 프로그래밍 2</td>
-    <td align="center" width="150px"><a href="">JAVA</a>, <a href="">Python</a></td>
+    <td align="center" width="300px">자료구조 2 (우선순위 큐)</td>
+    <td align="center" width="150px"></td>
     <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/02_Sort2">바로가기</a></td>
-    <td align="center" width="120px">3</td>
-    <td align="center" width="120px">5</td>
+    <td align="center" width="120px"></td>
+    <td align="center" width="120px"></td>
     <td align="center" width="80px">준비중..</td>
   </tr>
   <tr>
     <td align="center">07</td>
-    <td align="center" width="300px">투 포인터</td>
-    <td align="center" width="150px"><a href="">JAVA</a>, <a href="">Python</a></td>
+    <td align="center" width="300px">동적 프로그래밍 1</td>
+    <td align="center" width="150px"></td>
     <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/02_Sort2">바로가기</a></td>
-    <td align="center" width="120px">3</td>
-    <td align="center" width="120px">5</td>
+    <td align="center" width="120px"></td>
+    <td align="center" width="120px"></td>
     <td align="center" width="80px">준비중..</td>
   </tr>
   <tr>
     <td align="center">08</td>
-    <td align="center" width="300px">완전 탐색</td>
-    <td align="center" width="150px"><a href="">JAVA</a>, <a href="">Python</a></td>
+    <td align="center" width="300px">동적 프로그래밍 2</td>
+    <td align="center" width="150px"></td>
     <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/02_Sort2">바로가기</a></td>
-    <td align="center" width="120px">3</td>
-    <td align="center" width="120px">5</td>
+    <td align="center" width="120px"></td>
+    <td align="center" width="120px"></td>
     <td align="center" width="80px">준비중..</td>
   </tr>
   <tr>
     <td align="center">09</td>
-    <td align="center" width="300px">이분 탐색</td>
-    <td align="center" width="150px"><a href="">JAVA</a>, <a href="">Python</a></td>
+    <td align="center" width="300px">투 포인터</td>
+    <td align="center" width="150px"></td>
     <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/02_Sort2">바로가기</a></td>
-    <td align="center" width="120px">3</td>
-    <td align="center" width="120px">5</td>
+    <td align="center" width="120px"></td>
+    <td align="center" width="120px"></td>
     <td align="center" width="80px">준비중..</td>
   </tr>
   <tr>
     <td align="center">10</td>
-    <td align="center" width="300px">백트래킹</td>
-    <td align="center" width="150px"><a href="">JAVA</a>, <a href="">Python</a></td>
+    <td align="center" width="300px">완전 탐색</td>
+    <td align="center" width="150px"></td>
     <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/02_Sort2">바로가기</a></td>
-    <td align="center" width="120px">3</td>
-    <td align="center" width="120px">5</td>
+    <td align="center" width="120px"></td>
+    <td align="center" width="120px"></td>
     <td align="center" width="80px">준비중..</td>
   </tr>
   <tr>
     <td align="center">11</td>
-    <td align="center" width="300px">분할 정복</td>
-    <td align="center" width="150px"><a href="">JAVA</a>, <a href="">Python</a></td>
+    <td align="center" width="300px">이분 탐색</td>
+    <td align="center" width="150px"></td>
     <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/02_Sort2">바로가기</a></td>
-    <td align="center" width="120px">3</td>
-    <td align="center" width="120px">5</td>
+    <td align="center" width="120px"></td>
+    <td align="center" width="120px"></td>
     <td align="center" width="80px">준비중..</td>
   </tr>
   <tr>
     <td align="center">12</td>
-    <td align="center" width="300px">문자열 1</td>
-    <td align="center" width="150px"><a href="">JAVA</a>, <a href="">Python</a></td>
+    <td align="center" width="300px">백트래킹</td>
+    <td align="center" width="150px"></td>
     <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/02_Sort2">바로가기</a></td>
-    <td align="center" width="120px">3</td>
-    <td align="center" width="120px">5</td>
+    <td align="center" width="120px"></td>
+    <td align="center" width="120px"></td>
     <td align="center" width="80px">준비중..</td>
   </tr>
   <tr>
     <td align="center">13</td>
-    <td align="center" width="300px">문자열 2</td>
-    <td align="center" width="150px"><a href="">JAVA</a>, <a href="">Python</a></td>
+    <td align="center" width="300px">분할 정복</td>
+    <td align="center" width="150px"></td>
     <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/02_Sort2">바로가기</a></td>
-    <td align="center" width="120px">3</td>
-    <td align="center" width="120px">5</td>
+    <td align="center" width="120px"></td>
+    <td align="center" width="120px"></td>
     <td align="center" width="80px">준비중..</td>
   </tr>
   <tr>
     <td align="center">14</td>
-    <td align="center" width="300px">최단거리 (다익스트라)</td>
-    <td align="center" width="150px"><a href="">JAVA</a>, <a href="">Python</a></td>
+    <td align="center" width="300px">문자열 1</td>
+    <td align="center" width="150px"></td>
     <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/02_Sort2">바로가기</a></td>
-    <td align="center" width="120px">3</td>
-    <td align="center" width="120px">5</td>
+    <td align="center" width="120px"></td>
+    <td align="center" width="120px"></td>
     <td align="center" width="80px">준비중..</td>
   </tr>
   <tr>
     <td align="center">15</td>
-    <td align="center" width="300px">위상정렬</td>
-    <td align="center" width="150px"><a href="">JAVA</a>, <a href="">Python</a></td>
+    <td align="center" width="300px">문자열 2</td>
+    <td align="center" width="150px"></td>
     <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/02_Sort2">바로가기</a></td>
-    <td align="center" width="120px">3</td>
-    <td align="center" width="120px">5</td>
+    <td align="center" width="120px"></td>
+    <td align="center" width="120px"></td>
     <td align="center" width="80px">준비중..</td>
   </tr>
   <tr>
     <td align="center">16</td>
-    <td align="center" width="300px">분리 집합 (유니언 파인드)</td>
-    <td align="center" width="150px"><a href="">JAVA</a>, <a href="">Python</a></td>
+    <td align="center" width="300px">최단거리 (다익스트라)</td>
+    <td align="center" width="150px"></td>
     <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/02_Sort2">바로가기</a></td>
-    <td align="center" width="120px">3</td>
-    <td align="center" width="120px">5</td>
+    <td align="center" width="120px"></td>
+    <td align="center" width="120px"></td>
     <td align="center" width="80px">준비중..</td>
   </tr>
   <tr>
     <td align="center">17</td>
-    <td align="center" width="300px">최소 스패닝 트리</td>
-    <td align="center" width="150px"><a href="">JAVA</a>, <a href="">Python</a></td>
+    <td align="center" width="300px">위상정렬</td>
+    <td align="center" width="150px"></td>
     <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/02_Sort2">바로가기</a></td>
-    <td align="center" width="120px">3</td>
-    <td align="center" width="120px">5</td>
+    <td align="center" width="120px"></td>
+    <td align="center" width="120px"></td>
     <td align="center" width="80px">준비중..</td>
   </tr>
   <tr>
     <td align="center">18</td>
-    <td align="center" width="300px">트라이</td>
-    <td align="center" width="150px"><a href="">JAVA</a>, <a href="">Python</a></td>
+    <td align="center" width="300px">분리 집합 (유니언 파인드)</td>
+    <td align="center" width="150px"></td>
     <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/02_Sort2">바로가기</a></td>
-    <td align="center" width="120px">3</td>
-    <td align="center" width="120px">5</td>
+    <td align="center" width="120px"></td>
+    <td align="center" width="120px"></td>
     <td align="center" width="80px">준비중..</td>
   </tr>
   <tr>
     <td align="center">19</td>
-    <td align="center" width="300px">동적 프로그래밍 트리</td>
-    <td align="center" width="150px"><a href="">JAVA</a>, <a href="">Python</a></td>
+    <td align="center" width="300px">최소 스패닝 트리</td>
+    <td align="center" width="150px"></td>
     <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/02_Sort2">바로가기</a></td>
-    <td align="center" width="120px">3</td>
-    <td align="center" width="120px">5</td>
+    <td align="center" width="120px"></td>
+    <td align="center" width="120px"></td>
+    <td align="center" width="80px">준비중..</td>
+  </tr>
+  <tr>
+    <td align="center">20</td>
+    <td align="center" width="300px">트라이</td>
+    <td align="center" width="150px"></td>
+    <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/02_Sort2">바로가기</a></td>
+    <td align="center" width="120px"></td>
+    <td align="center" width="120px"></td>
+    <td align="center" width="80px">준비중..</td>
+  </tr>
+  <tr>
+    <td align="center">21</td>
+    <td align="center" width="300px">동적 프로그래밍 트리</td>
+    <td align="center" width="150px"></td>
+    <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/02_Sort2">바로가기</a></td>
+    <td align="center" width="120px"></td>
+    <td align="center" width="120px"></td>
     <td align="center" width="80px">준비중..</td>
   </tr>
 </table>
