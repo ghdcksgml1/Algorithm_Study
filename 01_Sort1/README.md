@@ -6,7 +6,7 @@
 
 <br/>
 
-2750번은 QuickSort
+2750번은 QuickSort [[추천강의](https://www.youtube.com/watch?v=7BDzle2n47c)]
 
 2751번은 MergeSort 로 풉시다.
 
