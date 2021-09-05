@@ -125,13 +125,13 @@
 * JAVA
 
 ```java
-  // 언어 : JAVA , (성공/실패) : 1/4 , 메모리 : 45008 KB , 시간 : 208ms
+  // 언어 : JAVA , (성공/실패) : 1/4 , 메모리 : 45008 KB , 시간 : 208 ms
 ```
 
 * Python
 
 ```python
-  # 언어 : Python , (성공/실패) : 1/4 , 메모리 : 45008 KB , 시간 : 208ms
+  # 언어 : Python , (성공/실패) : 1/4 , 메모리 : 45008 KB , 시간 : 208 ms
 ```
 
 <br/>
@@ -238,7 +238,7 @@ int main(void){
     <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/02_Sort2">바로가기</a></td>
     <td align="center" width="120px">3</td>
     <td align="center" width="120px">5</td>
-    <td align="center" width="80px">0/5</td>
+    <td align="center" width="80px">2/5</td>
   </tr>
   <tr>
     <td align="center">03</td>
