@@ -6,6 +6,30 @@
 
 <br/>
 
+### **알아두면 나중에 써먹을 일이 많은 법칙** : [유클리드 호제법](https://namu.wiki/w/%EC%9C%A0%ED%81%B4%EB%A6%AC%EB%93%9C%20%ED%98%B8%EC%A0%9C%EB%B2%95#s-3.3.1) (최대공약수를 빠르게 구하는 방법임.)
+
+```c
+#include <stdio.h>
+
+// (a > b)일때
+int Euclidean(int a,int b){
+     int r = a % b;
+     if (r == 0)
+         return b;
+     else
+         return Euclidean(b,r);
+
+int main(void){
+    printf("%d\n",Gcd(100,200));
+  
+    return 0;
+}
+
+```
+
+
+<br/>
+
 <table>
   <tr>
     <td align="center">순서</td>
