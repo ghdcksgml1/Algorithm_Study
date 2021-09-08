@@ -1,7 +1,11 @@
 # 🎮 알고리즘 스터디
 
 <br/>
- 
+
+### 스터디 참여방법 : 해당 repository Fork 후 ghdcksgml2@naver.com 메일 or pull requests
+
+<br/>
+
 알고리즘 실력 향상을 위해 만든 Baekjoon문제풀이 스터디
 
 1주일간 정해진 알고리즘 개념을 공부하고, 알고리즘에 관련된 필수문제 3문제를 푼 뒤, 서로의 코드를 리뷰한다.
