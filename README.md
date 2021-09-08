@@ -225,7 +225,7 @@ int main(void){
   <tr>
     <td align="center">01</td>
     <td align="center" width="300px">정렬 1</td>
-    <td align="center" width="150px"><a href="">JAVA</a>, <a href="">Python</a></td>
+    <td align="center" width="150px"></a></td>
     <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/01_Sort1">바로가기</a></td>
     <td align="center" width="120px">3</td>
     <td align="center" width="120px">5</td>
@@ -234,7 +234,7 @@ int main(void){
   <tr>
     <td align="center">02</td>
     <td align="center" width="300px">정렬 2 (sort함수 사용)</td>
-    <td align="center" width="150px"><a href="">JAVA</a>, <a href="">Python</a></td>
+    <td align="center" width="150px"></td>
     <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/02_Sort2">바로가기</a></td>
     <td align="center" width="120px">3</td>
     <td align="center" width="120px">5</td>
