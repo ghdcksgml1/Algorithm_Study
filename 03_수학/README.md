@@ -18,6 +18,7 @@ int Euclidean(int a,int b){
          return b;
      else
          return Euclidean(b,r);
+}
 
 int main(void){
     printf("%d\n",Gcd(100,200));
