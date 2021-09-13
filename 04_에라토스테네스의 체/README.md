@@ -27,9 +27,9 @@
     <td align="center">02</td>
     <td align="center">✅</td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg"></td>
-    <td align="center">1929</td>
-    <td align="center">소수 최소 공배수</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/1929">바로가기</a></td>
+    <td align="center">1978</td>
+    <td align="center">소수 찾기</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/1978">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">03</td>
