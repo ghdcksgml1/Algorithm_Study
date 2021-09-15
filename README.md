@@ -1,7 +1,11 @@
 # 🎮 알고리즘 스터디
 
 <br/>
- 
+
+### 스터디 참여방법 : 해당 repository Fork 후 ghdcksgml2@naver.com 메일 or pull requests
+
+<br/>
+
 알고리즘 실력 향상을 위해 만든 Baekjoon문제풀이 스터디
 
 1주일간 정해진 알고리즘 개념을 공부하고, 알고리즘에 관련된 필수문제 3문제를 푼 뒤, 서로의 코드를 리뷰한다.
@@ -125,13 +129,13 @@
 * JAVA
 
 ```java
-  // 언어 : JAVA , (성공/실패) : 1/4 , 메모리 : 45008 KB , 시간 : 208ms
+  // 언어 : JAVA , (성공/실패) : 1/4 , 메모리 : 45008 KB , 시간 : 208 ms
 ```
 
 * Python
 
 ```python
-  # 언어 : Python , (성공/실패) : 1/4 , 메모리 : 45008 KB , 시간 : 208ms
+  # 언어 : Python , (성공/실패) : 1/4 , 메모리 : 45008 KB , 시간 : 208 ms
 ```
 
 <br/>
@@ -225,7 +229,7 @@ int main(void){
   <tr>
     <td align="center">01</td>
     <td align="center" width="300px">정렬 1</td>
-    <td align="center" width="150px"><a href="">JAVA</a>, <a href="">Python</a></td>
+    <td align="center" width="150px"></a></td>
     <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/01_Sort1">바로가기</a></td>
     <td align="center" width="120px">3</td>
     <td align="center" width="120px">5</td>
@@ -234,11 +238,11 @@ int main(void){
   <tr>
     <td align="center">02</td>
     <td align="center" width="300px">정렬 2 (sort함수 사용)</td>
-    <td align="center" width="150px"><a href="">JAVA</a>, <a href="">Python</a></td>
+    <td align="center" width="150px"></td>
     <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/02_Sort2">바로가기</a></td>
     <td align="center" width="120px">3</td>
     <td align="center" width="120px">5</td>
-    <td align="center" width="80px">0/5</td>
+    <td align="center" width="80px">2/5</td>
   </tr>
   <tr>
     <td align="center">03</td>
@@ -247,7 +251,7 @@ int main(void){
     <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/03_수학">바로가기</a></td>
     <td align="center" width="120px">5</td>
     <td align="center" width="120px">5</td>
-    <td align="center" width="80px">0/5</td>
+    <td align="center" width="80px">1/5</td>
   </tr><tr>
     <td align="center">04</td>
     <td align="center" width="300px">에라토스테네스의 체</td>
