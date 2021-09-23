@@ -259,7 +259,7 @@ int main(void){
     <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/04_에라토스테네스의%20체">바로가기</a></td>
     <td align="center" width="120px">5</td>
     <td align="center" width="120px">5</td>
-    <td align="center" width="80px">0/5</td>
+    <td align="center" width="80px">1/5</td>
   </tr>
   <tr>
     <td align="center">05</td>
@@ -275,9 +275,9 @@ int main(void){
     <td align="center" width="300px">자료구조 2 (우선순위 큐)</td>
     <td align="center" width="150px"></td>
     <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/06_자료구조2">바로가기</a></td>
-    <td align="center" width="120px"></td>
-    <td align="center" width="120px"></td>
-    <td align="center" width="80px">준비중..</td>
+    <td align="center" width="120px">4</td>
+    <td align="center" width="120px">4</td>
+    <td align="center" width="80px">0/5</td>
   </tr>
   <tr>
     <td align="center">07</td>
