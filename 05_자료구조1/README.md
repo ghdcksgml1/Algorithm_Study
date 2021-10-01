@@ -4,7 +4,13 @@
 
 추천 문제는 (✅ 체크표시) 했습니다.
 
-vector도 사용해봅시다. vector는 나중에도 엄청 많이 쓰임.
+### - 덱 (deque) [출처](https://soft.plusblog.co.kr/24)
+
+덱 자료구조는 큐와 다르게 in-out 을 양방향에서 할 수 있다.
+
+<img width="486" alt="Screen Shot 2021-10-01 at 5 10 45 PM" src="https://user-images.githubusercontent.com/79779676/135587439-846c65b1-83d7-4032-aef7-bb13223666f1.png">
+
+<img width="767" alt="Screen Shot 2021-10-01 at 5 10 36 PM" src="https://user-images.githubusercontent.com/79779676/135587452-9ff7ee0c-b705-4e27-aa0d-bf395e33b41d.png">
 
 <br/>
 
