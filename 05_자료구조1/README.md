@@ -10,7 +10,17 @@
 
 <img width="486" alt="Screen Shot 2021-10-01 at 5 10 45 PM" src="https://user-images.githubusercontent.com/79779676/135587439-846c65b1-83d7-4032-aef7-bb13223666f1.png">
 
+##
+
+- 삽입
+
 <img width="767" alt="Screen Shot 2021-10-01 at 5 10 36 PM" src="https://user-images.githubusercontent.com/79779676/135587452-9ff7ee0c-b705-4e27-aa0d-bf395e33b41d.png">
+
+##
+
+- 삭제
+
+<img width="719" alt="Screen Shot 2021-10-01 at 5 31 35 PM" src="https://user-images.githubusercontent.com/79779676/135590165-aa9fc8ba-8ea1-457a-93f4-5426819fdd2a.png">
 
 <br/>
 
