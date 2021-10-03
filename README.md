@@ -268,7 +268,7 @@ int main(void){
     <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/05_자료구조1">바로가기</a></td>
     <td align="center" width="120px">7</td>
     <td align="center" width="120px">7</td>
-    <td align="center" width="80px">0/5</td>
+    <td align="center" width="80px">1/5</td>
   </tr>
   <tr>
     <td align="center">06</td>
