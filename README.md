@@ -284,9 +284,9 @@ int main(void){
     <td align="center" width="300px">동적 프로그래밍 1</td>
     <td align="center" width="150px"></td>
     <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/07_동적%20프로그래밍1">바로가기</a></td>
-    <td align="center" width="120px"></td>
-    <td align="center" width="120px"></td>
-    <td align="center" width="80px">준비중..</td>
+    <td align="center" width="120px">6</td>
+    <td align="center" width="120px">7</td>
+    <td align="center" width="80px">0/5</td>
   </tr>
   <tr>
     <td align="center">08</td>
