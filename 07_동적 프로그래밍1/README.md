@@ -1,4 +1,4 @@
-## 📚 02_Sort 2 (sort함수 활용)
+## 📚 07_Dynamic Programming 1 (동적 프로그래밍 1)
 
 순서대로 푸는게 좋아요.
 
