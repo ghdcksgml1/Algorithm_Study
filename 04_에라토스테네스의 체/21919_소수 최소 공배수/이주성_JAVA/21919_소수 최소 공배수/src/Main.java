@@ -2,7 +2,6 @@
 
 import java.io.*;
 import java.util.Arrays;
-import java.util.HashSet;
 import java.util.StringTokenizer;
 
 public class Main {
@@ -50,31 +49,26 @@ public class Main {
 
         Arrays.sort(result);
 
-        // 중복 없애는 똥꼬짓
-        int[] re_result = new int[N];
-        int j = 0;
+        int[] cnt = new int[1000001];
 
-        for(int i=0; i<N; i++) {
-            if (result[i] != 0) {
-                if (result[i] != result[i-1]) {
-                    re_result[j] = result[i];
-                    j++;
-                }
-            }
+        for(int i=1; i<N;i++) {
+            cnt[result[i]] += 1;
         }
 
         int mul = 1;
 
-        for(int i=0; i<N; i++) {
-            if (re_result[i] != 0){
-                mul = mul * re_result[i];
+        for (int i=1; i<1000001; i++) {
+            if (cnt[i] >= 1) {
+                mul = mul * i;
             }
         }
-        if (mul == 1) {
-            bw.write("-1"+" ");
-        } else {
+        
+        if (mul != 1) {
             bw.write(mul+" ");
+        } else {
+            bw.write("-1"+" ");
         }
+
 
         bw.close();
 
