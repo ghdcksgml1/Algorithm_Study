@@ -1,6 +1,8 @@
 // 언어 : JAVA , (성공/실패) : 1/0 , 메모리 : 14604 KB , 시간 : 144 ms
 
 import java.io.*;
+import java.util.Arrays;
+import java.util.HashSet;
 import java.util.StringTokenizer;
 
 public class Main {
@@ -34,21 +36,45 @@ public class Main {
         StringTokenizer st = new StringTokenizer(br.readLine(), " ");
         int arr[] = new int[N];
 
-        int result = 1;
+        int[] result = new int[N];
+        int index = 0;
 
         for (int i=0; i<N; i++) {
             arr[i] = Integer.parseInt(st.nextToken());
             if (Prime_check(arr[i]) == true) {
                 // 소수끼리의 곱 = 최소공배수
-                result = arr[i] * result;
+                result[index] = arr[i];
+                index++;
             }
         }
-        if (result == 1) {
-            bw.write("-1"+" ");
-        }else {
-            bw.write(result+" ");
+
+        Arrays.sort(result);
+
+        // 중복 없애는 똥꼬짓
+        int[] re_result = new int[N];
+        int j = 0;
+
+        for(int i=0; i<N; i++) {
+            if (result[i] != 0) {
+                if (result[i] != result[i-1]) {
+                    re_result[j] = result[i];
+                    j++;
+                }
+            }
         }
 
+        int mul = 1;
+
+        for(int i=0; i<N; i++) {
+            if (re_result[i] != 0){
+                mul = mul * re_result[i];
+            }
+        }
+        if (mul == 1) {
+            bw.write("-1"+" ");
+        } else {
+            bw.write(mul+" ");
+        }
 
         bw.close();
 
