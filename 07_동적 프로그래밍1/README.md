@@ -6,6 +6,12 @@
 
 <br/>
 
+### 2번 문제 풀때 도움이되는 조합공식
+
+<img width="235" alt="스크린샷 2021-11-14 오후 2 49 22" src="https://user-images.githubusercontent.com/79779676/141669331-5ea94a56-f70d-4063-a76c-90b67f8119d8.png">
+
+<br/>
+
 <table>
   <tr>
     <td align="center">순서</td>
