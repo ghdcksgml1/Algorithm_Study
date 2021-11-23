@@ -261,7 +261,7 @@ int main(void){
     <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/05_자료구조1">바로가기</a></td>
     <td align="center" width="120px">7</td>
     <td align="center" width="120px">7</td>
-    <td align="center" width="80px">1/5</td>
+    <td align="center" width="80px">2/5</td>
   </tr>
   <tr>
     <td align="center">06</td>
@@ -269,7 +269,7 @@ int main(void){
     <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/06_자료구조2">바로가기</a></td>
     <td align="center" width="120px">4</td>
     <td align="center" width="120px">4</td>
-    <td align="center" width="80px">0/5</td>
+    <td align="center" width="80px">2/5</td>
   </tr>
   <tr>
     <td align="center">07</td>
@@ -277,31 +277,31 @@ int main(void){
     <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/07_동적%20프로그래밍1">바로가기</a></td>
     <td align="center" width="120px">6</td>
     <td align="center" width="120px">7</td>
-    <td align="center" width="80px">0/5</td>
+    <td align="center" width="80px">2/2</td>
   </tr>
   <tr>
     <td align="center">08</td>
     <td align="center" width="300px">동적 프로그래밍 2</td>
     <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/08_동적%20프로그래밍2">바로가기</a></td>
-    <td align="center" width="120px"></td>
-    <td align="center" width="120px"></td>
-    <td align="center" width="80px">준비중..</td>
+    <td align="center" width="120px">7</td>
+    <td align="center" width="120px">8</td>
+    <td align="center" width="80px">0/2</td>
   </tr>
   <tr>
     <td align="center">09</td>
     <td align="center" width="300px">투 포인터</td>
     <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/09_투%20포인터">바로가기</a></td>
-    <td align="center" width="120px"></td>
-    <td align="center" width="120px"></td>
-    <td align="center" width="80px">준비중..</td>
+    <td align="center" width="120px">6</td>
+    <td align="center" width="120px">7</td>
+    <td align="center" width="80px">0/2</td>
   </tr>
   <tr>
     <td align="center">10</td>
     <td align="center" width="300px">완전 탐색</td>
     <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/10_완전%20탐색">바로가기</a></td>
-    <td align="center" width="120px"></td>
-    <td align="center" width="120px"></td>
-    <td align="center" width="80px">준비중..</td>
+    <td align="center" width="120px">6</td>
+    <td align="center" width="120px">7</td>
+    <td align="center" width="80px">0/2</td>
   </tr>
   <tr>
     <td align="center">11</td>
