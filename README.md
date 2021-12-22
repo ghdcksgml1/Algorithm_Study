@@ -230,7 +230,7 @@ int main(void){
     <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/01_Sort1">바로가기</a></td>
     <td align="center" width="120px">3</td>
     <td align="center" width="120px">5</td>
-    <td align="center" width="80px">3/5</td>
+    <td align="center" width="80px">4/5</td>
   </tr>
   <tr>
     <td align="center">02</td>
@@ -285,7 +285,7 @@ int main(void){
     <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/08_동적%20프로그래밍2">바로가기</a></td>
     <td align="center" width="120px">7</td>
     <td align="center" width="120px">8</td>
-    <td align="center" width="80px">0/2</td>
+    <td align="center" width="80px">1/2</td>
   </tr>
   <tr>
     <td align="center">09</td>
