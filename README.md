@@ -293,7 +293,7 @@ int main(void){
     <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/09_투%20포인터">바로가기</a></td>
     <td align="center" width="120px">6</td>
     <td align="center" width="120px">7</td>
-    <td align="center" width="80px">0/2</td>
+    <td align="center" width="80px">1/2</td>
   </tr>
   <tr>
     <td align="center">10</td>
