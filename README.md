@@ -2,6 +2,8 @@
 
 <br/>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fghdcksgml1%2FAlgorithm_Study&count_bg=%230D6F76&title_bg=%231E3D64&icon=intellijidea.svg&icon_color=%23E9E4ED&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ### 스터디 참여방법 : 해당 repository Fork 후 ghdcksgml2@naver.com 메일 or pull requests
 
 <br/>
