@@ -303,7 +303,7 @@ int main(void){
     <td align="center" width="110px"><a href="https://github.com/ghdcksgml1/Algorithm_Study/tree/main/10_완전%20탐색">바로가기</a></td>
     <td align="center" width="120px">6</td>
     <td align="center" width="120px">7</td>
-    <td align="center" width="80px">0/2</td>
+    <td align="center" width="80px">1/2</td>
   </tr>
   <tr>
     <td align="center">11</td>
