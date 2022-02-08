@@ -64,6 +64,8 @@
 
 추천 강의 3 : <a href="https://www.youtube.com/watch?v=qQ5iLNjpxSk&list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz">동빈나님</a> (C/C++) 난 이걸루 시작함 ㅋ
 
+추천 블로그 : <a href="https://blog.naver.com/kks227">라이님</a> (C++) 중급 ~ 고급 알고리즘
+
 **무조건 복습 많이하고, 주석다는게 실력향상에 도움됨!!**
 
 <br/>
