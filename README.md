@@ -1,4 +1,4 @@
-# 🎮 알고리즘 스터디 (7/21) 화이팅 화이팅 🎊
+# 🎮 알고리즘 스터디 화이팅 화이팅 🎊
 
 <br/>
 
@@ -36,14 +36,12 @@
 
 <table>
     <tr>
-      <td height="140px" align="center"> <a href="https://github.com/eunsue1222"><img src="https://avatars.githubusercontent.com/u/46877867?s=460&v=4" width="140px" /><br/>단국대 컴퓨터공학과<br/>👩🏻 김은수 (Python)</a></td>
       <td height="140px" align="center"> <a href="https://github.com/comnewbie"><img src="https://avatars.githubusercontent.com/u/88769991?s=460&v=4" width="140px" /><br/>단국대 컴퓨터공학과<br/>👦🏻 소경민 (JAVA)</a></td>
       <td height="140px" align="center"> <a href="https://github.com/jusung-c"><img src="https://avatars.githubusercontent.com/u/62228433?s=460&v=4" width="140px" /><br/>단국대 컴퓨터공학과<br/>👦🏻 이주성 (JAVA)</a></td>
       <td height="140px" align="center"> <a href="https://github.com/youbeen2798"><img src="https://avatars.githubusercontent.com/u/62228401?s=460&v=4" width="140px" /><br/>단국대 컴퓨터공학과<br/>👩🏻 정유빈 (Python)</a></td>
         <td height="140px" align="center"> <a href="https://github.com/ghdcksgml1"><img src="https://avatars.githubusercontent.com/u/79779676?s=460&v=4" width="140px" /><br/>단국대 컴퓨터공학과<br/>👦🏻 홍찬희 (JAVA)</a></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://solved.ac/eunsue1222"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=eunsue1222" /></a><br/><a href="https://www.acmicpc.net/user/eunsue1222">Baekjoon</a><br/><a href="https://solved.ac/profile/eunsue1222">solved.ac</a></td>
       <td align="center"><a href="https://solved.ac/iforking"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=iforking" /></a><br/><a href="https://www.acmicpc.net/user/iforking">Baekjoon</a><br/><a href="https://solved.ac/profile/iforking">solved.ac</a></td>
       <td align="center"><a href="https://solved.ac/anaooauc1236"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=anaooauc1236" /></a><br/><a href="https://www.acmicpc.net/user/anaooauc1236">Baekjoon</a><br/><a href="https://solved.ac/profile/anaooauc1236">solved.ac</a></td>
       <td align="center"><a href="https://solved.ac/youbeen"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=youbeen" /></a><br/><a href="https://www.acmicpc.net/user/youbeen">Baekjoon</a><br/><a href="https://solved.ac/profile/youbeen">solved.ac</a></td>
@@ -64,7 +62,11 @@
 
 추천 강의 2 : <a href="https://github.com/rhs0266/FastCampus">류호석님</a> (JAVA)
 
-**무조건 복습 많이하는게 실력향상에 도움됨!!**
+추천 강의 3 : <a href="https://www.youtube.com/watch?v=qQ5iLNjpxSk&list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz">동빈나님</a> (C/C++) 난 이걸루 시작함 ㅋ
+
+추천 블로그 : <a href="https://blog.naver.com/kks227">라이님</a> (C++) 중급 ~ 고급 알고리즘
+
+**무조건 복습 많이하고, 주석다는게 실력향상에 도움됨!!**
 
 <br/>
 
@@ -102,7 +104,6 @@
 
 8️⃣ 정답을 맞추면 맞추는데에서 끝나는게 아니라, 조금이라도 시간을 단축시킬 수 있는 방법이 있는지 고민해본다.
 
-9️⃣ 쉬어가는 주는 다들 너무 지쳐있거나 or 시험기간 or 과반수가 찬성할 때
 
 <br/><br/>
 
