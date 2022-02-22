@@ -36,15 +36,13 @@
 
 <table>
     <tr>
-      <td height="140px" align="center"> <a href="https://github.com/comnewbie"><img src="https://avatars.githubusercontent.com/u/88769991?s=460&v=4" width="140px" /><br/>단국대 컴퓨터공학과<br/>👦🏻 소경민 (JAVA)</a></td>
       <td height="140px" align="center"> <a href="https://github.com/jusung-c"><img src="https://avatars.githubusercontent.com/u/62228433?s=460&v=4" width="140px" /><br/>단국대 컴퓨터공학과<br/>👦🏻 이주성 (JAVA)</a></td>
-      <td height="140px" align="center"> <a href="https://github.com/youbeen2798"><img src="https://avatars.githubusercontent.com/u/62228401?s=460&v=4" width="140px" /><br/>단국대 컴퓨터공학과<br/>👩🏻 정유빈 (Python)</a></td>
-        <td height="140px" align="center"> <a href="https://github.com/ghdcksgml1"><img src="https://avatars.githubusercontent.com/u/79779676?s=460&v=4" width="140px" /><br/>단국대 컴퓨터공학과<br/>👦🏻 홍찬희 (JAVA)</a></td>
+      <td height="140px" align="center"> <a href="https://github.com/ChunEunyu"><img src="https://avatars.githubusercontent.com/u/62228433?s=460&v=4" width="140px" /><br/>단국대 소프트웨어학과<br/>👦🏻 천은유 (Python)</a></td>
+        <td height="140px" align="center"> <a href="https://github.com/ghdcksgml1"><img src="https://avatars.githubusercontent.com/u/79779676?s=460&v=4" width="140px" /><br/>단국대 컴퓨터공학과<br/>👦🏻 홍찬희 (JAVA,C++)</a></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://solved.ac/iforking"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=iforking" /></a><br/><a href="https://www.acmicpc.net/user/iforking">Baekjoon</a><br/><a href="https://solved.ac/profile/iforking">solved.ac</a></td>
       <td align="center"><a href="https://solved.ac/anaooauc1236"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=anaooauc1236" /></a><br/><a href="https://www.acmicpc.net/user/anaooauc1236">Baekjoon</a><br/><a href="https://solved.ac/profile/anaooauc1236">solved.ac</a></td>
-      <td align="center"><a href="https://solved.ac/youbeen"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=youbeen" /></a><br/><a href="https://www.acmicpc.net/user/youbeen">Baekjoon</a><br/><a href="https://solved.ac/profile/youbeen">solved.ac</a></td>
+      <td align="center"><a href="https://solved.ac/annann0718"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=annann0718" /></a><br/><a href="https://www.acmicpc.net/user/annann0718">Baekjoon</a><br/><a href="https://solved.ac/profile/annann0718">solved.ac</a></td>
       <td align="center"><a href="https://solved.ac/ghdcks33"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ghdcks33" /></a><br/><a href="https://www.acmicpc.net/user/ghdcks33">Baekjoon</a><br/><a href="https://solved.ac/profile/ghdcks33">solved.ac</a></td>
   </tr>
   
