@@ -1,3 +1,7 @@
+// 언어 : JAVA , (성공/실패) : 1/3 ,
+// 메모리 : 15920 KB , 시간 : 5704 ms
+
+
 import java.io.*;
 
 public class Main {
