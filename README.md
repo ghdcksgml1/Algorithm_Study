@@ -6,6 +6,9 @@
 
 ### 스터디 참여방법 : 해당 repository Fork 후 [커뮤니티](https://github.com/ghdcksgml1/Algorithm_Study/discussions)의 스터디 신청란을 작성해주세요!
 
+<img width="1257" alt="스크린샷 2022-02-28 오후 9 12 02" src="https://user-images.githubusercontent.com/79779676/155981359-cd14b3fe-425f-4f61-b809-cb1c6bf5f8a5.png">
+
+
 <br/>
 
 알고리즘 실력 향상을 위해 만든 Baekjoon문제풀이 스터디
