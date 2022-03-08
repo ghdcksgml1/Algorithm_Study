@@ -40,7 +40,7 @@ bool Num[11];
 void PrimeNum(int N,int M){
      for(int i=2;i*i<=M;i++){
           if(Num[i] == true) continue; // true인 경우 i의 배수의 경우도 무조건 다 true이다. ex) i=4일경우
-          for(int j=2;j<=M;j++){
+          for(int j=2;i*j<=M;j++){
                Num[i*j] = true;
           }
      }
