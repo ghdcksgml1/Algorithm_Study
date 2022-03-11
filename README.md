@@ -51,6 +51,7 @@
       <td align="center"><a href="https://solved.ac/blackberry97"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=blackberry97" /></a><br/><a href="https://www.acmicpc.net/user/blackberry97">Baekjoon</a><br/><a href="https://solved.ac/profile/blackberry97">solved.ac</a></td>
       <td align="center"><a href="https://solved.ac/annann0718"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=annann0718" /></a><br/><a href="https://www.acmicpc.net/user/annann0718">Baekjoon</a><br/><a href="https://solved.ac/profile/annann0718">solved.ac</a></td>
       <td align="center"><a href="https://solved.ac/ghdcks33"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ghdcks33" /></a><br/><a href="https://www.acmicpc.net/user/ghdcks33">Baekjoon</a><br/><a href="https://solved.ac/profile/ghdcks33">solved.ac</a></td>
+      <td align="center"><a href="https://solved.ac/youbeen"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ghdcks33" /></a><br/><a href="https://www.acmicpc.net/user/youbeen">Baekjoon</a><br/><a href="https://solved.ac/profile/youbeen">solved.ac</a></td>
   </tr>
   
 </table>
