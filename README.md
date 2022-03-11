@@ -206,7 +206,7 @@ int main(void){
 
 <br/>
 
-<a href="https://blog.naver.com/ghdcksgml2/222466153666">Pull requests 방법</a> <= 링크를 타고 들어가면 나옵니다.
+<a href="https://blog.naver.com/ghdcksgml2/222466153666">Pull requests 방법</a> <= 링크를 타고 들어가면 나옵니다..
 
 <br/><br/>
 
