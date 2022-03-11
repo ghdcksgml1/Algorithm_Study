@@ -51,7 +51,7 @@
       <td align="center"><a href="https://solved.ac/blackberry97"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=blackberry97" /></a><br/><a href="https://www.acmicpc.net/user/blackberry97">Baekjoon</a><br/><a href="https://solved.ac/profile/blackberry97">solved.ac</a></td>
       <td align="center"><a href="https://solved.ac/annann0718"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=annann0718" /></a><br/><a href="https://www.acmicpc.net/user/annann0718">Baekjoon</a><br/><a href="https://solved.ac/profile/annann0718">solved.ac</a></td>
       <td align="center"><a href="https://solved.ac/ghdcks33"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ghdcks33" /></a><br/><a href="https://www.acmicpc.net/user/ghdcks33">Baekjoon</a><br/><a href="https://solved.ac/profile/ghdcks33">solved.ac</a></td>
-      <td align="center"><a href="https://solved.ac/youbeen"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ghdcks33" /></a><br/><a href="https://www.acmicpc.net/user/youbeen">Baekjoon</a><br/><a href="https://solved.ac/profile/youbeen">solved.ac</a></td>
+      <td align="center"><a href="https://solved.ac/youbeen"><img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=youbeen" /></a><br/><a href="https://www.acmicpc.net/user/youbeen">Baekjoon</a><br/><a href="https://solved.ac/profile/youbeen">solved.ac</a></td>
   </tr>
   
 </table>
@@ -76,7 +76,7 @@
 
 <br/>
 
-1️⃣ 강의를 보고나서 개념을 머릿속으로 생각하거나, 종이 그려보면서 이해한다.
+1️⃣ 강의를 보고나서 개념을 머릿속으로 생각하거나, 종이 그려보면서 이해한다.ㅁ알마
 
 2️⃣ 조금씩 보면서 코드로 작성해본다. (주석 필수로 달아보기)
 
