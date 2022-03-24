@@ -11,13 +11,13 @@ int main() {
 	int dp[1025][1025] = { 0, };
 
 	int row, col;
-	cin >> row >> col; //��� ��İ� �Է¹ޱ�
+	cin >> row >> col; //행렬 행렬값 입력받기
 
 
 	for (int k = 1; k <= row; k++) {
 		for (int j = 1; j <= col; j++) {
-			cin >> array[k][j]; //��� ���� �Է¹ޱ�
-			dp[k][j] = dp[k - 1][j] + dp[k][j - 1] + array[k][j] - dp[k - 1][j - 1]; //�ߺ���� ���ű���
+			cin >> array[k][j]; //행렬 원소 입력받기
+			dp[k][j] = dp[k - 1][j] + dp[k][j - 1] + array[k][j] - dp[k - 1][j - 1]; //중복요소 제거까지
 		}
 	}
 
