@@ -1,0 +1,31 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+	ios_base::sync_with_stdio(0); //입출력 빠르게
+	cin.tie(0);
+	cout.tie(0);
+
+	int T;
+	cin >> T; //테스트케이스 입력받기
+
+	for (int i = 0; i < T; i++) {
+		int dp[10001] = { 0 }; // 금액을 얻기 위한 가지수를 나타내는 배열
+		dp[0] = 1;
+		int N;
+		cin >> N; //동전 가지 개수 입력
+		int* coin = new int[N]; 
+		for (int j = 0; j < N; j++) {
+			cin >> coin[j]; // 동전의 각 금액 입력받기
+		}
+		int money;
+		cin >> money; //채워야할 금액
+
+		for (int k = 0; k < N; k++) {
+			for (int m = coin[k]; m <=  money; m++)
+				dp[m] = dp[m] + dp[m - coin[k]]; // 특정 동전이 마지막으로 채워질 때와 아닐때 
+		}
+
+		cout << dp[money] <<"\n"; // 동전 입력
+	}
+}
