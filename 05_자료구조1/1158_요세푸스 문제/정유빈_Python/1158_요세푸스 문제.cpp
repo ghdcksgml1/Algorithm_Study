@@ -1,13 +1,9 @@
 #include <iostream>
 #include <queue>
-
 using namespace std;
 
-int main() {
-	int n, k;
-	cin >> n >> k;
-
-	queue < int > q;
+void yosepuseu(int n, int k) {
+	queue < int> q;
 
 	for (int i = 1; i <= n; i++) {
 		q.push(i);
@@ -15,21 +11,28 @@ int main() {
 
 	cout << "<";
 
-	while(!q.empty()) {
+	while (q.size() != 1) {
+		for (int j = 1; j < k; j++) {
 
-		for (int i = 0; i < k - 1; i++) {
-			q.push(q.front());
+			int m = q.front();
+			q.push(m);
 			q.pop();
 		}
-		if (q.size() == 1) {
-			cout << q.front() << ">";
-			q.pop();
-		}
-		else {
-			cout << q.front() << ", ";
-			q.pop();
-		}
+		cout << q.front() << ", ";
+		q.pop();
 	}
+	cout << q.front();
+	cout << ">";
+}
 
-	return 0;
+
+int main() {
+	ios_base::sync_with_stdio(0);
+	cin.tie(0);
+	cout.tie(0);
+
+	int n, k;
+	cin >> n >> k;
+
+	yosepuseu(n, k);
 }
