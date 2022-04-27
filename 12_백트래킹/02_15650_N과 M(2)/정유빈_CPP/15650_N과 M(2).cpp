@@ -1,3 +1,7 @@
+// 자연수 N과 M이 주어졌을 때, 
+//1부터 N까지 자연수 중에서 M개를 고른 오름차순 수열을 출력하는 프로그램
+//같은 수 중복 허용 안됨
+
 #include <iostream>
 
 using namespace std;
