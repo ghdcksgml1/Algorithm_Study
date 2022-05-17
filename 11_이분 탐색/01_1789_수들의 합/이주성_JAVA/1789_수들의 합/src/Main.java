@@ -1,36 +1,40 @@
-/*
-- sum>=S가 되는 지점까지 1부터 더해주기
-- 같으면 cnt 더 크면 cnt-1 출력
-*/
-
 import java.io.*;
 
 public class Main {
-    public static void main(String[] args) throws IOException {
-        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+    static BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+    static long S;
+
+    static void init() throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-        long S = Long.parseLong(br.readLine());
+        S = Long.parseLong(br.readLine());
+    }
 
+    static void pro() throws IOException {
         long sum = 0;
-        int cnt = 0;
+        int cnt = 1;
 
-        for (long i = 1; i < S; i++) {
-            if (sum == S) {
+        for (int i = 2; ; i++) {
+
+            // 더했을 때 S를 넘는다면
+            if(sum + i >= S) {
+                bw.write(cnt+" ");
                 break;
-            } else if (sum > S) {
-                cnt--;
-                break;
+                
+            // 더해주기
+            } else {
+                sum += i;
+                cnt++;
             }
-
-            sum += i;
-            cnt++;
         }
+    }
 
-        bw.write(cnt+" ");
+    public static void main(String[] args) throws IOException {
+        init();
+
+        pro();
 
         bw.close();
-
     }
 
 }
